@@ -1,0 +1,114 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-section padding="0px" />
+            <mj-image padding="0px" />
+        </mj-attributes>
+        <mj-style>
+                .clear_button:hover {
+                    background-color: blue;
+                    color: white;
+                }
+                
+                .blue_button:hover {
+                    background-color: white;
+                    color: white;
+                }
+            </mj-style> 
+    </mj-head>
+    <mj-body>
+       <mj-section background-color="grey">
+         <mj-column width="100%">
+            <mj-image src="images/emails-on-emailv2_1.png" alt="emails-on-email" />
+        </mj-column>
+        <mj-column width="100%">
+            <mj-text font-size="50px" align="center" padding-top="50px" padding-bottom="50px" padding-left="0" padding-right="0" font-weight="bold" >
+                Your complete guide to email marketing
+            </mj-text>
+            <mj-divider border-color="red" border-width="1px" />
+        </mj-column>
+        <mj-column width="100%">
+            <mj-text font-size="20px">
+                Hi Smiles Davis
+            </mj-text>
+            <mj-text font-size="20px">
+                Following the success and positive feedback from our email marketing training series, we decided to create an interactive PDF version for you to download and use as a reference point for future campaigns you are planning.
+            </mj-text>
+            <mj-text font-size="20px">
+                Why download it? At a staggering £35.41 for every £ spent, email marketing offers one of the highest returns on investment. This, alongside the fact that active email accounts are set to grow to 4.48 billion users by 2024, there’s no wonder marketers are embracing email marketing with open arms. But, getting great results isn’t as easy as clicking send.
+            </mj-text>
+            <mj-text font-size="20px">
+                As email marketing and automation experts with many years’ experience, we love nothing more than to share insight into the topic. So, to support fellow marketers, we’ve created this unique, interactive PDF guide containing easily digestible sections to help grasp the intricacies of email marketing.
+            </mj-text>
+            <mj-text font-size="20px">
+                Topics include:
+            </mj-text>
+            <mj-text font-size="18px">
+                 <ul>
+                    <li>Campaign strategy - To help you achieve your objectives</li>
+                    <li>Branding - Create a strong brand identity</li>
+                    <li>Content - How to craft engaging content</li>
+                    <li>Design and build - Creating engaging designs with build restraints in mind</li>
+                    <li>Automation - How to use automation and the benefits it offers</li>
+                    <li>Analytics - Measuring campaigns and tracking results</li>
+                </ul>  
+            </mj-text>
+        </mj-column>
+        <mj-column width="100%" padding-bottom="55px">
+            <mj-button href="#" width="250px" align="left" mj-class name="clear_button" background-color="grey" border="1px solid blue" color="blue"> 
+                Get your copy
+            </mj-button>
+        </mj-column>
+        <mj-column width="100%" background-color="blue">
+            <mj-text color="white" font-size="20px" padding-top="50px" padding-bottom="50px">
+                Feel free to share with your friends and colleagues, or if you would like our support, let’s talk. We’re here to help when the timing’s right for you.
+            </mj-text>
+            <mj-button href="#" padding-bottom="50px" border="1px solid white" background-color="blue" mj-class name="blue_button" align="left" width="250px">     
+                Forward to a friend
+            </mj-button>
+        </mj-column>
+       </mj-section>
+       <mj-section background-color="white">
+                <mj-column mj-inline-width="50%">
+            <mj-text padding-bottom="0">           	
+                1973 Ltd
+            </mj-text>
+            <mj-text padding-bottom="0">
+                +44 (0)1865 893 311
+            </mj-text>
+            <mj-text>
+                hello@1973ltd.com
+            </mj-text>
+        </mj-column>
+        <mj-column mj-inline-width="50%">
+            <mj-text>
+                Follow us
+            </mj-text>
+                <mj-group padding-bottom="20px">
+                    <mj-column>
+                        <mj-image href="#" src="images/facebook-logo_10.png" alt="facebook-logo_10" width="20px" padding="0" />
+                    </mj-column>
+                    <mj-column>
+                        <mj-image href="#" src="images/insta-logo_6.png" alt="insta-logo_6" width="20px" />
+                    </mj-column>
+                    <mj-column >
+                        <mj-image href="#" src="images/linked-logo_4.png" alt="linked-logo_4" width="20px" />
+                    </mj-column>
+                    <mj-column>
+                        <mj-image href="#" src="images/twitter-logo_8.png" alt="twitter-logo_8"  width="20px"/>
+                    </mj-column>
+                </mj-group>
+        </mj-column>
+       </mj-section>
+       <mj-section background-color="white">
+        <mj-divider border-color="grey" border-width="1px" />
+       <mj-column width="100%">
+             <mj-text>
+            © 2020 – 1973 Ltd   |   View online  |   Unsubscribe  |   Privacy Notice
+Company No. 05170383. Registered in England at Ashgrove House,
+Monument Park, Chalgrove, Oxfordshire, England, OX44 7RW
+        </mj-text>
+       </mj-column>
+       </mj-section>
+    </mj-body>
+</mjml>
